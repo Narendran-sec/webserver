@@ -26,7 +26,7 @@ Serving the HTML pages.
 
 Testing the webserver
 
-## PROGRAM:
+### PROGRAM:
 ```
 from http.server import HTTPServer,BaseHTTPRequestHandler
 content='''
@@ -76,7 +76,7 @@ httpd.serve_forever()
 
 <h3>Client Output:</h3>
 
-![output](/home/sec/Downloads/clientoutput.jpeg)
+![output](home/sec/Downloads/clientoutput.jpeg)
 
 ## RESULT:
 The program is executed succesfully
