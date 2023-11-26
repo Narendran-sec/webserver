@@ -73,7 +73,6 @@ httpd.serve_forever()
 ## OUTPUT:
 <h3>Server Output:</h3>
 
-![output](/home/sec/Downloads/serveroutput.jpeg)
 
 <h3>Client Output:</h3>
 
