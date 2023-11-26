@@ -73,11 +73,11 @@ httpd.serve_forever()
 ## OUTPUT:
 <h3>Server Output:</h3>
 
-![output](//home/sec/Downloads/serveroutput.jpeg)
+![output](/home/sec/Downloads/serveroutput.jpeg)
 
 <h3>Client Output:</h3>
 
-![output](//home/sec/Downloads/clientoutput.jpeg)
+![output](/home/sec/Downloads/clientoutput.jpeg)
 
 ## RESULT:
 The program is executed succesfully
