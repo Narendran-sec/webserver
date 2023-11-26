@@ -73,10 +73,13 @@ httpd.serve_forever()
 ## OUTPUT:
 <h3>Server Output:</h3>
 
+![output1](https://github.com/Narendran-sec/webserver/assets/147473131/40ec8e02-dcb7-4c41-bac3-8a8cc5633c84)
+
 
 <h3>Client Output:</h3>
 
-![output](home/sec/Downloads/clientoutput.jpeg)
+![output2](https://github.com/Narendran-sec/webserver/assets/147473131/3054f4d8-e6c2-4d85-8458-ce1fd09bfa93)
+
 
 ## RESULT:
 The program is executed succesfully
